@@ -1,0 +1,8 @@
+
+body {
+    background-image: url("gb.jpg.jpg");
+    background-repeat: repeat/no-repeat;
+    background-size: 1600px 840px
+}
+
+#more {display: none;}
